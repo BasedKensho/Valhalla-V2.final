@@ -1,2 +1,2 @@
-# Valhalla-V2.final
-Final version of the valhalla landing page (for now)
+# valhalla-2.0
+Website for Valhalla 2.6
